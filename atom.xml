@@ -4,7 +4,7 @@
   <title><![CDATA[Eeva Kauppi]]></title>
   <link href="http://eeva.github.com/atom.xml" rel="self"/>
   <link href="http://eeva.github.com/"/>
-  <updated>2012-09-08T21:32:01+03:00</updated>
+  <updated>2012-09-08T21:33:26+03:00</updated>
   <id>http://eeva.github.com/</id>
   <author>
     <name><![CDATA[Eeva Kauppi]]></name>
@@ -18,11 +18,11 @@
     <link href="http://eeva.github.com/blog/2012/09/08/terveisia-sirkusmarkkinoilta/"/>
     <updated>2012-09-08T21:19:00+03:00</updated>
     <id>http://eeva.github.com/blog/2012/09/08/terveisia-sirkusmarkkinoilta</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://eeva.github.com/images/ksm_02.jpg" width="150" height="250" title="Hattaran valmistusta" ></p>
+    <content type="html"><![CDATA[<p><img src="http://eeva.github.com/images/ksm_01.jpg" width="450" height="250" title="Valmis hattara" ></p>
 
 <p>Tunnelma Sirkusmarkkinoilla Keravan kävelykadulla oli mitä mainion. Aurinko paistoi (toki välillä satoi ja myrskysi) ja ihmiset olivat hyvällä juhlatuulella. Hattara teki kauppansa ja juttu luisti teltalle rohkaistuneiden kanssa. Ja ihmiset olivat hymyilevän positiivisesti yllättyneitä ilmaisista Keravan Vihreiden tarjoamista hattaroista.  Tervetuloa vielä huomenna Vihreälle teltalle, kävelykadulle Hesen eteen, tutustumaan Vihreiden toimintaan ja mukaviin vihreisiin ehdokkaisiin. Allekirjoittanut on tavattavissa teltalla 13-16.</p>
 
-<p><img src="http://eeva.github.com/images/ksm_01.jpg" width="450" height="250" title="Valmis hattara" ></p>
+<p><img class="left" src="http://eeva.github.com/images/ksm_02.jpg" width="150" height="250" title="Hattaran valmistusta" ></p>
 ]]></content>
   </entry>
   

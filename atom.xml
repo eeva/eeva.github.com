@@ -4,7 +4,7 @@
   <title><![CDATA[Eeva Kauppi]]></title>
   <link href="http://eeva.github.com/atom.xml" rel="self"/>
   <link href="http://eeva.github.com/"/>
-  <updated>2012-09-08T21:33:26+03:00</updated>
+  <updated>2012-09-16T10:21:33+03:00</updated>
   <id>http://eeva.github.com/</id>
   <author>
     <name><![CDATA[Eeva Kauppi]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Toimintaa Kalevaan!]]></title>
+    <link href="http://eeva.github.com/blog/2012/09/15/toimintaa-kalevaan/"/>
+    <updated>2012-09-15T16:16:00+03:00</updated>
+    <id>http://eeva.github.com/blog/2012/09/15/toimintaa-kalevaan</id>
+    <content type="html"><![CDATA[<p>Tänään, lauantaina 15.9.2012, luin ilokseni <a href="http://www.keski-uusimaa.fi/artikkeli/141145-vanhasta-neuvolasta-tuli-kerhotalo">Keski-Uusimaasta</a>, kuinka Järvenpään Kyrölään on saatu avointa päiväkotitoimintaa vanhaan neuvolan taloon.  Samoissa tiloissa toimii myös MLL:n perhekahvila torstai-iltaisin.</p>
+
+<p>Toivoisin samanlaista kädenojennusta myös Keravan kaupungilta. Kalevan alueella ei tällä hetkellä ole kotona lapsiaan hoitaville äideille muuta sisällä tapahtuvaa toimintaa, kuin seurakunnan järjestämä avoinpäiväkoti tiistaisin. Tämän kerhon suosio osoittaa sen, että Kalevan alueella on paljon lapsiperheitä, jotka ovat todella kiinnostuneita tällaisesta toiminnasta. Aikaisemmin Kalevan alueen nuorisotilassa Häkissä toimi perjantaisin MLL:n perhekahvila, jossa parhaillaan kävi yli 70 äitiä lapsineen. Vilskettä ja vilinää tiloissa siis riitti. Valitettavasti kaupunki päätti nostaa tilojen vuokraa ja MLL:llä ei ollut enää mahdollisuutta maksaa tiloista. Tällä hetkellä pidetään puistokahvilaa muutamien äitien voimin, mutta olisi todella tärkeää, että toiminnalle saataisiin sisätilat viimeistään lumien sadettua. Toivoisinkin nyt, että Keravan kaupunki voisi huomioida myös Kalevan alueen perheitä ja tarjota MLL:lle kohtuullisen hintaisella vuokralla tilat perhekahvilalle, tulijoita kuitenkin olisi. Esimerkiksi Häkki, jota aiemmin käytettiin, oli tilana loistava ja nykyäänhän se on päivisin aivan tyhjillään.  Ja alueen äidit olisivat varmasti iloisia myös avoimesta päiväkerhotoiminnasta täällä meillä päinkin.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Terveisiä Sirkusmarkkinoilta]]></title>

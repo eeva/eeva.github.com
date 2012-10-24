@@ -3,7 +3,7 @@ layout: post
 title: "Kivaa Keravalla ja minulle tärkeitä asioita"
 date: 2012-09-26 22:10
 comments: true
-categories: 
+categories: kerava
 ---
 {% img /images/kk/yleiskuva.jpg 450 250 Yleiskuva tapahtumasta %}
 

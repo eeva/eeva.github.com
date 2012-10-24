@@ -3,7 +3,7 @@ layout: post
 title: "Toimintaa Kalevaan!"
 date: 2012-09-15 16:16
 comments: true
-categories: 
+categories: kerava
 ---
 Tänään, lauantaina 15.9.2012, luin ilokseni [Keski-Uusimaasta](http://www.keski-uusimaa.fi/artikkeli/141145-vanhasta-neuvolasta-tuli-kerhotalo), kuinka Järvenpään Kyrölään on saatu avointa päiväkotitoimintaa vanhaan neuvolan taloon.  Samoissa tiloissa toimii myös MLL:n perhekahvila torstai-iltaisin.
 

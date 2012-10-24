@@ -3,7 +3,7 @@ layout: post
 title: "Terveisiä Sirkusmarkkinoilta"
 date: 2012-09-08 21:19
 comments: true
-categories: 
+categories: kerava
 ---
 {% img /images/ksm_01.jpg 450 250 Valmis hattara %}
 

@@ -26,3 +26,5 @@ Niin, minulta siis kysyttiin mitä asioita haluaisin ajaa. Ehdottomana ykkösen�
 {% img /images/kk/eeva.jpg 450 250 Eeva %}
 
 Kiitos vielä kuvista [Sara Soinne](http://ofeli3.wix.com/ofelia#!)! 
+
+[Kommentit Facebookissa](https://www.facebook.com/photo.php?fbid=154110031396178&set=a.151319371675244.34731.142918735848641&type=1)
